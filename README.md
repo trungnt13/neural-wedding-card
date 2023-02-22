@@ -1,7 +1,6 @@
 # Using Neural Style Transfer to create your wedding card
 
-![Final result wedding card](result_wedding_card.jpg)
-
+<img src="result_wedding_card.jpg" width="400">
 
 ### Some interesting results
 
