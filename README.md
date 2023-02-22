@@ -12,3 +12,4 @@
 ![](outputs/Style2_1.jpg)  |  ![](outputs/Style3_1.jpg)
 ![](outputs/Style2_2.jpg)  |  ![](outputs/Style3_2.jpg)
 ![](outputs/Style2_3.jpg)  |  ![](outputs/Style3_3.jpg)
+![](outputs/Style2_4.jpg)  |  ![](outputs/Style3_4.jpg)
