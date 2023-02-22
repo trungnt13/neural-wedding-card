@@ -1,2 +1,3 @@
-# neural-style-transfer
-All in one package for style transfer using artificial neural network.
+# Using Neural Style Transfer to create your wedding card
+
+![Final result wedding card](result_wedding_card.jpg)
