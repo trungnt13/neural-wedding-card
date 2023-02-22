@@ -2,6 +2,8 @@
 
 <img src="result_wedding_card.jpg" width="400">
 
+**Code and tutorial will be released soon**
+
 ### Some interesting results
 
 
