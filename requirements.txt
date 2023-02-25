@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+torchmetrics
+pillow
+matplotlib
