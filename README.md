@@ -1,6 +1,8 @@
 # Using Neural Style Transfer to create your wedding card
 
-<img src="result_wedding_card.jpg" width="400">
+<img src="inputs/trungnguyen.jpg" width="300"> +
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="250">
+ = <img src="result_wedding_card.png" width="150">
 
 **Code and tutorial will be released soon**
 
